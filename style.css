@@ -1,5 +1,5 @@
 body{background-color: rgb(42, 165, 89);text-align: center;}
-
+.conteudo{margin: 50px; padding: 50px; background-color: blue; text-align: left; background-color: rgb(red, green, blue);}
 h1{background-color: blueviolet;}
 p{color: rgb(29, 2, 6);}
-img{width: 200px;}
+img{width: 200px;} 
